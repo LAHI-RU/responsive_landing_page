@@ -20,6 +20,5 @@ Fully Responsive Design: Perfectly adapts to any device, ensuring a smooth exper
 
 User-Friendly Interface: Intuitive navigation and appealing layout for effortless booking.
 
-Modern Aesthetic: Dark theme with a sleek, professional look.
 </p>
  
